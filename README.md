@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @houda-filali
+- 👀 I’m interested in java, full stack development, transforming ideas to code
+- 🌱 I’m currently learning APIs
+- 📫 How to reach me : filalihouda11@gmail.com
+- 😄 Pronouns: she/her
+- ⚡ Fun fact: Lifeguard by the pool, debugger by the code – I've got an eye for trouble
